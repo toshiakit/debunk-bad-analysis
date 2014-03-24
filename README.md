@@ -3,7 +3,7 @@ Best and Worst States to be a Taxpayer Debunked
 
 When I saw this [CNBC post on Google+](https://plus.google.com/109511956491697549112/posts/AWQpUEzimrp), my “bogus data analysis” radar started sending high alerts.
 
-<div style="position:relative;width:556px;height:347px"><iframe src="http://d2e70e9yced57e.cloudfront.net/common/wallethub/best-worst-states-to-be-a-taxpayer.html" width="556" height="347" frameBorder="0" scrolling="no"></iframe><a href="http://wallethub.com/edu/best-worst-states-to-be-a-taxpayer/2416/" style="position:absolute;top:319px;left:465px;"><img src="http://d2e70e9yced57e.cloudfront.net/wallethub/images/blog/wh-gcharts-logo_V6185_.png" width="76" height="13" alt="WalletHub" /></a></div>
+![Wallethub Map](wallethubmap.PNG)
 
 This is what they did: [WalletHub](http://wallethub.com/edu/best-worst-states-to-be-a-taxpayer/2416/) used average tax amount to rank state, adjusted to the cost of living index.
 
