@@ -1,0 +1,52 @@
+Rank,State,AvgAnnualStateLocalTaxes,PercentDiffFromNationalAvg,AdjRankCostOfLivingIdx
+1,Wyoming,2365,-0.66,1
+2,Alaska,2791,-0.66,4
+3,Nevada,3370,-0.52,2
+4,Florida,3648,-0.48,3
+5,South Dakota,3766,-0.46,5
+6,Washington,3823,-0.45,6
+7,Texas,5193,-0.25,7
+8,Delaware,5195,-0.25,12
+9,North Dakota,5588,-0.2,13
+10,Colorado,5674,-0.19,14
+11,New Mexico,5822,-0.16,8
+12,Alabama,5846,-0.16,9
+13,Arizona,6057,-0.13,17
+14,Utah,6098,-0.13,11
+15,Mississippi,6210,-0.11,10
+16,Indiana,6358,-0.09,15
+17,Louisiana,6564,-0.06,18
+18,West Virginia,6598,-0.05,19
+19,Montana,6641,-0.05,20
+20,Oklahoma,6795,-0.02,16
+21,Massachusetts,6884,-0.01,35
+22,Rhode Island,6905,-0.01,40
+23,South Carolina,7070,0.01,24
+24,Missouri,7220,0.04,22
+25,Tennessee,7252,0.04,21
+26,Georgia,7319,0.05,25
+27,Virginia,7333,0.05,29
+28,New Hampshire,7419,0.06,41
+29,Hawaii,7427,0.07,48
+30,Kentucky,7472,0.07,23
+31,Arkansas,7557,0.08,26
+32,Ohio,7604,0.09,28
+33,Kansas,7695,0.1,30
+34,Idaho,7776,0.12,27
+35,North Carolina,7789,0.12,32
+36,Michigan,7867,0.13,31
+37,District of Columbia,8034,0.15,46
+38,Minnesota,8261,0.19,36
+39,Pennsylvania,8344,0.2,34
+40,Oregon,8416,0.21,42
+41,Maryland,8571,0.23,44
+42,Maine,8622,0.24,43
+43,Iowa,8788,0.26,33
+44,New Jersey,8830,0.27,47
+45,Vermont,8838,0.27,45
+46,Wisconsin,8975,0.29,39
+47,Illinois,9006,0.29,38
+48,Connecticut,9099,0.31,49
+49,Nebraska,9450,0.36,37
+50,California,9509,0.36,50
+51,New York,9718,0.39,51
